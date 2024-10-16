@@ -43,3 +43,24 @@ This project aims to analyze product reviews to determine the sentiment (positiv
 
 - **Model Evaluation**: Performance metrics and accuracy assessment for each model, with BERT achieving an impressive accuracy of **95.53%**.
 
+## Usage
+
+- Load the dataset in the notebook.
+- Perform text preprocessing steps.
+- Train different models on the processed text.
+- Evaluate the models and compare their performance.
+
+## Results
+
+- BERT outperformed all other models with an accuracy of 95.53%.
+- Detailed evaluation metrics (precision, recall, F1-score) for all models are included in the notebook.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Acknowledgements
+
+Thanks to the authors of the libraries and frameworks used in this project.
+Inspiration from various online resources and tutorials on sentiment analysis.
+
