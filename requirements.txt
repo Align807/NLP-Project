@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+nltk
+seaborn
+scikit-learn
+textblob
+wordcloud
+torch 
+transformers
+datasets
