@@ -4,8 +4,10 @@ matplotlib
 nltk
 seaborn
 scikit-learn
+accelerate>=0.26.0
 textblob
 wordcloud
 torch 
 transformers
 datasets
+streamlit
